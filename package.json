@@ -1,0 +1,18 @@
+{
+  "name": "vibium-demo",
+  "version": "1.0.0",
+  "description": "Vibium mini automation framework",
+  "type": "module",
+  "scripts": {
+    "test": "node src/run.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vibium": "^0.1.2"
+  },
+  "devDependencies": {
+    "@vibium/win32-x64": "^0.1.2"
+  }
+}
